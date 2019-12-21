@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: RMC SPORT 1 HD"  group-title="BACKUP 3",FR: RMC SPORT 1 HD
+http://abolamaster.ddns.net:25461/live/3w00sF13Uv/bEOCBQZODK/15622.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: RMC SPORT 2 HD"  group-title="BACKUP 3",FR: RMC SPORT 2 HD
+http://abolamaster.ddns.net:25461/live/3w00sF13Uv/bEOCBQZODK/15623.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: RMC SPORT 3 HD"  group-title="BACKUP 3",FR: RMC SPORT 3 HD
+http://abolamaster.ddns.net:25461/live/3w00sF13Uv/bEOCBQZODK/15624.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: RMC SPORT 4 HD"  group-title="BACKUP 3",FR: RMC SPORT 4 HD
+http://abolamaster.ddns.net:25461/live/3w00sF13Uv/bEOCBQZODK/15625.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:RMC Sport 1 HD"  group-title="BACKUP 1",FR:RMC Sport 1 HD
+http://tv.lavanatv.net:30003/live/KXp7IZyDt1/JC7l8YbwnB/935.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:RMC Sport 2 HD"  group-title="BACKUP 1",FR:RMC Sport 2 HD
+http://tv.lavanatv.net:30003/live/KXp7IZyDt1/JC7l8YbwnB/936.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:RMC Sport 3 HD"  group-title="BACKUP 1",FR:RMC Sport 3 HD
+http://tv.lavanatv.net:30003/live/KXp7IZyDt1/JC7l8YbwnB/937.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:RMC Sport 4 HD"  group-title="BACKUP 1",FR:RMC Sport 4 HD
+http://tv.lavanatv.net:30003/live/KXp7IZyDt1/JC7l8YbwnB/938.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT1_HD"  group-title="BACKUP 4",FR:_RMC_SPORT1_HD
+http://tv2iptv.com:8000/live/Majid/majid123/30615.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT2_HD"  group-title="BACKUP 4",FR:_RMC_SPORT2_HD
+http://tv2iptv.com:8000/live/Majid/majid123/30614.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT3_HD"  group-title="BACKUP 4",FR:_RMC_SPORT3_HD
+http://tv2iptv.com:8000/live/Majid/majid123/30613.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT4_HD"  group-title="BACKUP 4",FR:_RMC_SPORT4_HD
+http://tv2iptv.com:8000/live/Majid/majid123/30612.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT1_HD"  group-title="BACKUP 2",FR:_RMC_SPORT1_HD
+http://tv2iptv.com:8000/live/Dylan/Dylan123/30615.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT2_HD"  group-title="BACKUP 2",FR:_RMC_SPORT2_HD
+http://tv2iptv.com:8000/live/Dylan/Dylan123/30614.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT3_HD"  group-title="BACKUP 2",FR:_RMC_SPORT3_HD
+http://tv2iptv.com:8000/live/Dylan/Dylan123/30613.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT4_HD"  group-title="BACKUP 2",FR:_RMC_SPORT4_HD
+http://tv2iptv.com:8000/live/Dylan/Dylan123/30612.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT1_HD"  group-title="BACKUP 5",FR:_RMC_SPORT1_HD
+http://tv2iptv.com:8000/live/Moyo/moyo123/30615.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT2_HD"  group-title="BACKUP 5",FR:_RMC_SPORT2_HD
+http://tv2iptv.com:8000/live/Moyo/moyo123/30614.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT3_HD"  group-title="BACKUP 5",FR:_RMC_SPORT3_HD
+http://tv2iptv.com:8000/live/Moyo/moyo123/30613.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR:_RMC_SPORT4_HD"  group-title="BACKUP 5",FR:_RMC_SPORT4_HD
+http://tv2iptv.com:8000/live/Moyo/moyo123/30612.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 1 FHD"  group-title="BACKUP 0",|FR| RMC SPORT 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536191.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 1 HD"  group-title="BACKUP 0",|FR| RMC SPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527095.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 2 FHD"  group-title="BACKUP 0",|FR| RMC SPORT 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536190.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 2 HD"  group-title="BACKUP 0",|FR| RMC SPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527094.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 3 FHD"  group-title="BACKUP 0",|FR| RMC SPORT 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536189.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 3 HD"  group-title="BACKUP 0",|FR| RMC SPORT 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="|FR| RMC SPORT 4 FHD"  group-title="BACKUP 0",|FR| RMC SPORT 4 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536188.m3u8
